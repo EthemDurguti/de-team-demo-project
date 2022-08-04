@@ -1,1 +1,10 @@
-/*# sourceMappingURL=style.css.map */
+
+.card{
+    margin: 0 auto;
+    text-align: center;
+    min-height: 510px;
+}
+
+h5 img{
+    width: 25px;
+}
